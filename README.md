@@ -2,6 +2,15 @@
 
 This repository stores code and supplementary material for study on the quality of food related data in consumer nutrition applications.
 
+## Data for testing code
+
+You can
+* OpenFoodFacts: https://world.openfoodfacts.org/data
+* Nutritional values for common foods and products: https://www.kaggle.com/datasets/trolukovich/nutritional-values-for-common-foods-and-products
+* Food101: https://www.kaggle.com/datasets/kmader/food41
+* MAFood121: https://www.kaggle.com/datasets/theviz/mafood121
+* Epicurious scraped: https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images
+
 
 ## Abstract
 
